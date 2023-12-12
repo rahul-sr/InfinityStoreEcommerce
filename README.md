@@ -1,5 +1,8 @@
 # Infinity Store Ecommerce Website
 
+![InfinityStoreEcom](https://github.com/rahul-sr/InfinityStoreEcommerce/assets/16071840/6e5b3fe7-acd0-4a90-afcf-2d0f231bd86e)
+
+
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
